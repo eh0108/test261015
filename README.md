@@ -20,7 +20,7 @@ React + TypeScript + Vite 정적 사이트 (GitHub Pages).
 
 ## 개발
 ```
-npm ci
+npm install
 npm test
 npm run build
 ```
